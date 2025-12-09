@@ -1,12 +1,12 @@
+bcrypt==4.0.1
 fastapi
 uvicorn
 python-dotenv
 pydantic
 motor
 passlib[bcrypt]
-pydantic[email] 
+pydantic[email]
 pyjwt
-
 pytest
 pytest-asyncio
 httpx
